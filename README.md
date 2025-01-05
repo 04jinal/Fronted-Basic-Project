@@ -1,1 +1,2 @@
 # Fronted-Basic-Project
+This project is a music streaming web application designed to provide users with an engaging platform to listen to both new and classic songs from Indian and English music genres. The application is built using HTML and CSS, and it incorporates various features to enhance user experience, including a sidebar navigation, a music player, and sections for recently played songs, trending tracks, and featured charts.
